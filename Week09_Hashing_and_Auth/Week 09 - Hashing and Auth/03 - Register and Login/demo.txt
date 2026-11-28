@@ -1,0 +1,6 @@
+alice,$2b$12$bEZKNjAWfb4vS6rYMoZB5eoZnrz0imyAzRrGDyzGSppx7/iPLSuyO
+riya,$2b$12$7GFalx7U8Ov.iQQheS0Q/u/bNNHUVbMeQH19A/lP9WrCJYrLlvVvq
+riya,$2b$12$CDZlwXcLp.ePb45S9.gD2e.dS/WTskvEROCKusCYDBts9QJ9wmRGu
+kelly,$2b$12$2chwDacDXS8p6iGK5j.Ka.rC0rYgyy/Wr6CFN1LuJ1fq5S2oXIj4S
+alice,$2b$12$vbP5ALIcCpYtZ9EdRS57ruZFy5DPUibrMq0CuybAPhbzLq.VkNhGC
+riya,$2b$12$fcEMyDTy8YFslO5tamJdx.buYvSgiRyYM1K0KVzj13RPSuxT8X9wO

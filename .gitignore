@@ -6,5 +6,6 @@ __pycache__/
 .env
 DATA/app.db
 DATA/users.txt
+users.txt
 .streamlit/secrets.toml
 practice/
